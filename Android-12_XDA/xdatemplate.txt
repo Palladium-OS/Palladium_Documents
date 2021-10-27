@@ -2,19 +2,19 @@
 
 [CODE]#include <std_disclaimer.h>
 /*
- * Your warranty is... still valid/probably? ( Subject to OEM's)
+ * Your warranty is... still valid probably or is it? ( Subject to OEM's)
  *
  * We are not responsible for bricked devices, dead SD cards
- * unpleasant experiences. Custom ROM's are Custom for a reason and
- * as developers, we try our best to give you the most complete experience
+ * unpleasant experiences. Custom ROM's are "Custom" for a reason and
+ * as developers, we try our best to give you the most complete experience.
  * When you choose our ROM, it's a choice which you make but it doesn't make us 
- * liable to any unfortunate events. But we will be happy to help for the greater good.
+ * liable to any unfortunate events. But we will be happy to help and support 
+ *for the greater good.
  /[/CODE]
 
 
 [IMG]https://raw.githubusercontent.com/Palladium-OS/palladium_docs/main/Android-12_XDA/About.png[/IMG]
-[B]Palladium OS[/B] is not yet another ubiquitous os but a trendsetter of its own level. The Prime focus here 
-is on speed, stability and above all, it's a community-driven os where everyone can experience their ideas
+[B]Palladium OS[/B] is not yet another ubiquitous os but a trendsetter of its own level. The Prime focus here is on speed, stability and above all, it's a community-driven os where everyone can experience their ideas
 without any limitations. All these are complemented by the Meteor Fall program which is a series of OTA updates
 that adds in new features and suggestions. So, now you know why it's christened [B]The Palladium OS[/B].
 
@@ -49,12 +49,12 @@ Checkout more documentation at (maintainership/contributing): [URL="https://gith
 
 [SIZE="5"][B][U]WHAT WORKS?[/U][/B][/SIZE]
 
-* Almost everything
+* Almost everything 😎
 
 
 
 [SIZE="5"][B][U]WHAT DOESN'T WORK?[/U][/B][/SIZE]
- * You tell me
+ * You tell me 😁
 
 Be sure to include a log : [URL="https://forum.xda-developers.com/showthread.php?t=2774386"]check how to[/URL]
 
