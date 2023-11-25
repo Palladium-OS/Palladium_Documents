@@ -1,0 +1,86 @@
+[CENTER][IMG]https://raw.githubusercontent.com/Palladium-OS/palladium_docs/main/Android-14_XDA/PalladiumOS_Banner.png[/IMG]
+
+[CODE]#include <std_disclaimer.h>
+/*
+ * Your warranty is... still valid probably or is it? ( Subject to OEM's)
+ *
+ * We are not responsible for bricked devices, dead SD cards
+ * unpleasant experiences. Custom ROM's are "Custom" for a reason and
+ * as developers, we try our best to give you the most complete experience.
+ * When you choose our ROM, it's a choice which you make but it doesn't make us 
+ * liable to any unfortunate events. But we will be happy to help and support 
+ *for the greater good.
+ /[/CODE]
+
+
+[IMG]https://raw.githubusercontent.com/Palladium-OS/palladium_docs/main/Android-14_XDA/About.png[/IMG]
+[B]Palladium OS[/B] is not yet another ubiquitous os but a trendsetter of its own level. The Prime focus here is on speed, stability and above all, it's a community-driven os where everyone can experience their ideas
+without any limitations. All these are complemented by the Meteor Fall program which is a series of OTA updates
+that adds in new features and suggestions. So, now you know why it's christened [B]The Palladium OS[/B].
+
+[B]Website[/B]: [URL="https://palladiumos.org/"]https://palladiumos.org[/URL]
+[B]Telegram[/B]: [URL="https://www.telegram.me/palladiumos"]Channel[/URL] | [URL="https://www.telegram.me/palladiumoschat"]TG Portal/Links[/URL]
+[B]Github[/B]: [URL="https://github.com/Palladium-OS"]https://github.com/Palladium-OS[/URL]
+[B]Jenkins[/B]: [URL="https://ci.palladiumos.org"]ci.palladiumos.org[/URL]
+[B]E-mail[/B]: [EMAIL="support@palladiumos.org"]support@palladiumos.org[/EMAIL]
+
+Checkout more documentation at (maintainership/contributing): [URL="https://github.com/Palladium-OS/official_devices"]Check this out[/URL]
+
+[IMG]https://raw.githubusercontent.com/Palladium-OS/palladium_docs/main/Android-14_XDA/Team.png[/IMG]
+[url=https://forum.xda-developers.com/m/sanjheevi-sv.10088055/]Sanjheevi[/url]
+[url=https://forum.xda-developers.com/m/lokesh773.9362438/]Lokesh[/url]
+
+[IMG]https://raw.githubusercontent.com/Palladium-OS/palladium_docs/main/Android-14_XDA/Donation.png[/IMG]
+
+[URL="https://www.paypal.me/zolycc"]Support Us if you like our work[/URL]
+
+[SIZE="3"]Got an issue or suggestion? Reach us at[/SIZE]
+[B]Telegram[/B]: [URL]https://telegram.me/palladiumoschat[/URL]
+
+[IMG]https://raw.githubusercontent.com/Palladium-OS/palladium_docs/main/Android-14_XDA/Features.png[/IMG]
+
+[SIZE="3"]Based on android-14[/SIZE]
+[SIZE="3"]Network traffic indicators[/SIZE]
+[SIZE="3"]Pocket lock[/SIZE]
+[SIZE="3"]Themed icons[/SIZE]
+[SIZE="3"]Mic and Camera toggles[/SIZE]
+[SIZE="3"]4G and 4G+ icon by default[/SIZE]
+[SIZE="3"]Swipe to screenshot[/SIZE]
+
+[SIZE="5"][B][U]WHAT WORKS?[/U][/B][/SIZE]
+
+* Almost everything 😎
+
+
+[SIZE="5"][B][U]WHAT DOESN'T WORK?[/U][/B][/SIZE]
+ * You tell me 😁
+
+Be sure to include a log : [URL="https://forum.xda-developers.com/showthread.php?t=2774386"]check how to[/URL]
+
+[IMG]https://raw.githubusercontent.com/Palladium-OS/palladium_docs/main/Android-14_XDA/Source.png[/IMG]
+[B]Palladium:[/B] [URL="https://github.com/Palladium-OS"]Palladium-OS[/URL]
+[B]Palladium Device Sources:[/B] [URL=https://github.com/PalladiumOS-Devices"]PalladiumOS-Devices[/URL]
+
+[IMG]https://raw.githubusercontent.com/Palladium-OS/palladium_docs/main/Android-14_XDA/Install.png[/IMG]
+- checkout [URL="https://palladiumos.org/"]https://palladiumos.org[/URL]/download/<Device Codename>
+
+[B]The ROM has GApps persistence in between dirty flashes, so you only have to flash them once!
+
+[IMG]https://raw.githubusercontent.com/Palladium-OS/palladium_docs/main/Android-14_XDA/Download.png[/IMG]
+[B]ROM:[/B] [URL="palladiumos.org/download/<Device Codename>"]Download[/URL]
+
+[IMG]https://raw.githubusercontent.com/Palladium-OS/palladium_docs/main/Android-14_XDA/Credits.png[/IMG]
+
+- Google for AOSP
+- LineageOS
+- POSP & ArrowOS & Pixys Team for thread template idea
+[/CENTER]
+
+
+[B]Build Author/Maintainer[/B] - Builder's Name
+[B]Device Name[/B] - Device Name
+[B]Device Codename[/B] - Device Codename
+[B]Kernel Source[/B] - Kernel Source
+[B]ROM Status[/B] - Unofficial
+[B]Android Version[/B] - 14
+[B]ROM Version[/B] - v4.0
